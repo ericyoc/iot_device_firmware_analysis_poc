@@ -1,6 +1,6 @@
-# Firmware Analysis Tool
+# IoT Device Firmware Analysis Tool
 
-This Python script performs firmware analysis on a given binary file (.bin). It provides a comprehensive set of functions to extract valuable information and insights from the firmware, aiding in reverse engineering and vulnerability analysis.
+This Python script performs IoT device (or embedded system) firmware analysis on a given binary file (.bin). It provides a comprehensive set of functions to extract valuable information and insights from the firmware, aiding in reverse engineering and vulnerability analysis.
 
 ## Motivating Article
 
@@ -10,7 +10,7 @@ Bakhshi T, Ghita B, Kuzminykh I. A Review of IoT Firmware Vulnerabilities and Au
 
 https://www.thyrasec.com/blog/firmware-reversing-and-analysis-tools/
 
-## Firmware Analysis Tool Features
+## IoT Device Firmware Analysis Tool Features
 
 - Calculates file size and MD5 hash of the firmware
 - Detects file format (ELF, PE, or unknown)
@@ -24,7 +24,7 @@ https://www.thyrasec.com/blog/firmware-reversing-and-analysis-tools/
 - Detects the presence of cryptographic algorithms (AES, DES, RSA, SHA-1, SHA-256, MD5) and provides descriptions of their usage
 - Identifies potential passwords based on length, entropy, and specific patterns
 
-## Importance of Firmware Analysis
+## Importance of IoT Device Firmware Analysis
 
 Firmware analysis plays a crucial role in reverse engineering and vulnerability assessment of embedded systems. By examining the firmware, security researchers and developers can:
 
@@ -37,13 +37,13 @@ Firmware analysis plays a crucial role in reverse engineering and vulnerability 
 
 Firmware analysis allows for a deeper understanding of the device's behavior and helps in identifying and mitigating security risks associated with the firmware.
 
-## Firmware Analysis Results
+## IoT Device Firmware Analysis Results
 
 The script generates a table summarizing the analysis results. 
 
 ![](https://github.com/ericyoc/simpgle_firmware_analysis/blob/main/results_firmware_analysis.jpg)
 
-## Firmware Analysis Tool Customization
+## IoT Device Firmware Analysis Tool Customization
 
 The script provides various parameters that you can customize based on your specific requirements:
 
@@ -53,7 +53,7 @@ The script provides various parameters that you can customize based on your spec
 
 Feel free to modify these parameters in the `analyze_firmware()` function to suit your needs.
 
-## Firmware Analysis Tool Disclaimer
+## IoT Device Firmware Analysis Tool Disclaimer
 
 This script is provided for educational and research purposes only. The use of this tool should comply with all applicable laws and ethical guidelines. The authors and contributors are not responsible for any misuse or damage caused by this script.
 
