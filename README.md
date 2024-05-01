@@ -33,6 +33,8 @@ Firmware analysis allows for a deeper understanding of the device's behavior and
 
 The script generates a table summarizing the analysis results. 
 
+![](https://github.com/ericyoc/simpgle_firmware_analysis/blob/main/results_firmware_analysis.jpg)
+
 ## Customization
 
 The script provides various parameters that you can customize based on your specific requirements:
