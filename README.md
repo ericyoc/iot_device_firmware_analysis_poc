@@ -10,7 +10,7 @@ Bakhshi T, Ghita B, Kuzminykh I. A Review of IoT Firmware Vulnerabilities and Au
 
 https://www.thyrasec.com/blog/firmware-reversing-and-analysis-tools/
 
-## Features
+## Firmware Analysis Tool Features
 
 - Calculates file size and MD5 hash of the firmware
 - Detects file format (ELF, PE, or unknown)
@@ -37,13 +37,13 @@ Firmware analysis plays a crucial role in reverse engineering and vulnerability 
 
 Firmware analysis allows for a deeper understanding of the device's behavior and helps in identifying and mitigating security risks associated with the firmware.
 
-## Analysis Results
+## Firmware Analysis Results
 
 The script generates a table summarizing the analysis results. 
 
 ![](https://github.com/ericyoc/simpgle_firmware_analysis/blob/main/results_firmware_analysis.jpg)
 
-## Customization
+## Firmware Analysis Tool Customization
 
 The script provides various parameters that you can customize based on your specific requirements:
 
@@ -53,7 +53,7 @@ The script provides various parameters that you can customize based on your spec
 
 Feel free to modify these parameters in the `analyze_firmware()` function to suit your needs.
 
-## Disclaimer
+## Firmware Analysis Tool Disclaimer
 
 This script is provided for educational and research purposes only. The use of this tool should comply with all applicable laws and ethical guidelines. The authors and contributors are not responsible for any misuse or damage caused by this script.
 
