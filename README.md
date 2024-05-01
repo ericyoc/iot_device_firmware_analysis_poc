@@ -6,7 +6,7 @@ This Python script performs firmware analysis on a given binary file (.bin). It 
 
 Bakhshi T, Ghita B, Kuzminykh I. A Review of IoT Firmware Vulnerabilities and Auditing Techniques. Sensors. 2024; 24(2):708. https://doi.org/10.3390/s24020708.
 
-## Related Tools
+## Reverse Engineering and Analysis Tools
 
 https://www.thyrasec.com/blog/firmware-reversing-and-analysis-tools/
 
