@@ -2,9 +2,11 @@
 
 This Python script performs firmware analysis on a given binary file (.bin). It provides a comprehensive set of functions to extract valuable information and insights from the firmware, aiding in reverse engineering and vulnerability analysis.
 
-## Motivating Article
+## Motivating Article and Firmware Analysis Tools
 
 Bakhshi T, Ghita B, Kuzminykh I. A Review of IoT Firmware Vulnerabilities and Auditing Techniques. Sensors. 2024; 24(2):708. https://doi.org/10.3390/s24020708.
+
+[https://www.kali.org/tools/binwalk/](https://www.thyrasec.com/blog/firmware-reversing-and-analysis-tools/)
 
 ## Features
 
