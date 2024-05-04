@@ -10,6 +10,8 @@ Bakhshi T, Ghita B, Kuzminykh I. A Review of IoT Firmware Vulnerabilities and Au
 
 https://www.thyrasec.com/blog/firmware-reversing-and-analysis-tools/
 
+https://github.com/alexandreborges/malwoverview
+
 ## IoT Device Firmware Analysis Tool Features
 
 - Calculates file size and MD5 hash of the firmware
