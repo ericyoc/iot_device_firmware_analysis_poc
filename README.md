@@ -8,6 +8,8 @@ Bakhshi T, Ghita B, Kuzminykh I. A Review of IoT Firmware Vulnerabilities and Au
 
 ## Reverse Engineering and Analysis Tools
 
+https://github.com/attify/firmware-analysis-toolkit
+
 https://www.thyrasec.com/blog/firmware-reversing-and-analysis-tools/
 
 https://github.com/alexandreborges/malwoverview
