@@ -16,6 +16,8 @@ https://www.thyrasec.com/blog/firmware-reversing-and-analysis-tools/
 
 https://github.com/alexandreborges/malwoverview
 
+https://bugprove.com/
+
 ## IoT Device Firmware Analysis Tool Features
 
 - Calculates file size and MD5 hash of the firmware
